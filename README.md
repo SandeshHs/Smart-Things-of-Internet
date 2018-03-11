@@ -1,5 +1,6 @@
 # Smart-Things-of-Internet
 Smart Things of Internet (SToI) is a home automation system designed using open source hardware and software.
+project demo : https://drive.google.com/file/d/1JtICKsU7DZGf8zERn9WA0VeWOv961C12
 
 SToI provides home automation essentials like<br/>
 <br/>
