@@ -1,8 +1,6 @@
 # Smart-Things-of-Internet
 Smart Things of Internet (SToI) is a home automation system designed using open source hardware and software.
 
-Project demo : https://drive.google.com/file/d/1JtICKsU7DZGf8zERn9WA0VeWOv961C12
-
 SToI provides home automation essentials like<br/>
 <br/>
 <b>Security</b>- doorbell, IP camera control, and notifications<br/>
@@ -15,6 +13,8 @@ IOT devices are wireless and 'Plug and play' which fit into the existing wall po
 Home Automation system has a dedicated user friendly Android application for notifying, monitoring, and controlling any of the devices over the same Wi-Fi network or access remotely over the internet.
 
 Used open source hardware and software like Arduino, raspberry pi & Linux which reduced the cost of home automation by over 50% compared to commercial products that are available in the market.
+
+Project demo : https://drive.google.com/file/d/1JtICKsU7DZGf8zERn9WA0VeWOv961C12
 
 The arduino codes in the file were implemented on Arduino pro-mini except the file name "hub" which was implemented on Arduino Uno R3.
 
